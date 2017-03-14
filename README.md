@@ -8,4 +8,4 @@ Pkg.clone("https://github.com/AStupidBear/Perseus.jl.git")
 ```
 
 ## Usage
-See [examples]("examples/")
+See [examples]("./examples/")
